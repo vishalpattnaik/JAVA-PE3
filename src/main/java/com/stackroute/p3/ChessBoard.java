@@ -1,0 +1,26 @@
+package com.stackroute.p3;
+
+public class ChessBoard {
+    private String[][] chess;
+    private int rows,columns;
+
+    public void matrixInitialise(int rows)
+    {
+        this.rows=rows;
+        this.columns=rows;
+        chess=new String[rows][columns];
+
+    }
+    public String setChess()
+    {    int counter=0; String chessboardresult="";
+        for(int i=0;i<rows;i++)
+        {
+            for(int j=0;j<columns;j++)
+            {
+                chess[i][j]=(counter++%2==0)?"BB":"WW";
+                chessboardresult= chessboardresult.concat(chess[i][j]).concat(" ");
+            }
+            chessboardresult=chessboardresult.concat("\n");
+        }return chessboardresult;
+    }
+}
