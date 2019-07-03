@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc2d17d9-c0f1-420c-89ce-c75b0a022afc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA PRACTICE EXERCISE-3/com/stackroute/p3/ExceptionQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA PRACTICE EXERCISE-3/com/stackroute/p3/ExceptionQuestion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchDifferentExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchDifferentExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ChessBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ExceptionQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ExceptionQuestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/MatrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/MatrixAddition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/RemoveVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/RemoveVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +38,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchException.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/MatrixAdditionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/Exception.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchDifferentExceptions.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java" />
@@ -59,6 +46,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/MatrixAddition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java" />
       </list>
     </option>
   </component>
@@ -74,6 +62,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +154,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,7 +316,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28715536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29119033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -400,20 +388,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchException.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -482,6 +457,13 @@
           <folding>
             <element signature="e#0#777#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
         </state>
       </provider>
     </entry>

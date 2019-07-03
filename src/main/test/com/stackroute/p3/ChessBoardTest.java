@@ -60,3 +60,4 @@ public class ChessBoardTest {
                 "BB WW BB WW \n",result);
     }
 }
+
