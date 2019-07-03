@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc2d17d9-c0f1-420c-89ce-c75b0a022afc" name="Default Changelist" comment="" />
+    <list default="true" id="fc2d17d9-c0f1-420c-89ce-c75b0a022afc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA PRACTICE EXERCISE-3/com/stackroute/p3/ExceptionQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA PRACTICE EXERCISE-3/com/stackroute/p3/ExceptionQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchDifferentExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchDifferentExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ExceptionQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ExceptionQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/MatrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/MatrixAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/RemoveVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/RemoveVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,44 +32,48 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/StudentMarksTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/RemoveVowelsTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/CalculateDateTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/ConsecutiveNumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchException.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/MatrixAdditionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/Exception.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchDifferentExceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ChessBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ExceptionQuestion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/MatrixAddition.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p3/MatrixAdditionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ChessBoard.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchDifferentExceptions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/Exception.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/ExceptionQuestion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="833" />
-    <option name="y" value="25" />
-    <option name="width" value="767" />
-    <option name="height" value="875" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1533" />
+    <option name="height" value="873" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,10 +164,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -177,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionQuestion">
+  <component name="RunManager" selected="JUnit.MatrixAdditionTest.returnAdditionOfTwoMatrices">
     <configuration name="CatchDifferentExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.p3.CatchDifferentExceptions" />
       <module name="JAVA PRACTICE EXERCISE-3" />
@@ -204,8 +224,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.p3.MatrixAddition" />
+    <configuration name="ChessBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JAVA PRACTICE EXERCISE-3" />
       <extension name="coverage">
         <pattern>
@@ -213,6 +232,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.p3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.p3.ChessBoardTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -250,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MatrixAdditionTest.returnAdditionOfTwoMatrices" />
+        <item itemvalue="JUnit.ChessBoardTest" />
         <item itemvalue="Application.ExceptionQuestion" />
         <item itemvalue="Application.CatchDifferentExceptions" />
         <item itemvalue="JUnit.MatrixAdditionTest" />
-        <item itemvalue="Application.MatrixAddition" />
-        <item itemvalue="JUnit.MatrixAdditionTest.returnAdditionOfTwoMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -272,12 +294,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RemoveVowelsTest - 2019.06.30 at 22h 59m 36s.xml">
-      <configuration name="RemoveVowelsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveVowelsTest - 2019.06.30 at 23h 00m 05s.xml">
-      <configuration name="RemoveVowelsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RemoveVowelsTest - 2019.06.30 at 23h 02m 15s.xml">
       <configuration name="RemoveVowelsTest" configurationId="JUnit" />
     </history-entry>
@@ -302,11 +318,17 @@
     <history-entry file="MatrixAdditionTest - 2019.07.01 at 15h 00m 17s.xml">
       <configuration name="MatrixAdditionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ChessBoardTest - 2019.07.01 at 16h 58m 53s.xml">
+      <configuration name="ChessBoardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatrixAdditionTest_returnAdditionOfTwoMatrices - 2019.07.01 at 17h 16m 17s.xml">
+      <configuration name="MatrixAdditionTest.returnAdditionOfTwoMatrices" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2669805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28715536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -316,7 +338,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32841823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,48 +368,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p3/CalculateDateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p3/RemoveVowelsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/RemoveVowels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -398,49 +382,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/ChessBoard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/Exception.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p3/CalculateDateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="510">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p3/MatrixAdditionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/MatrixAddition.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p3/ChessBoardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        <state relative-caret-position="-6">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/Exception.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/ExceptionQuestion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/CalculateDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/CatchDifferentExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#1386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/ConsecutiveNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/ExceptionQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/ChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#849#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/MatrixAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/RemoveVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p3/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#777#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,3 +1,5 @@
+/*program to set up an array of places, Loop round and remove the vowels.*/
+
 package com.stackroute.p3;
 
 public class RemoveVowels {
@@ -7,7 +9,7 @@ public class RemoveVowels {
 
         String res = "";
 
-        for(int i=0; i< input.length; i++) {
+        for(int i=0; i< input.length; i++) {            //check for vowels
 
             for(int j=0; j<input[i].length(); j++) {
 
@@ -23,7 +25,7 @@ public class RemoveVowels {
 
         }
 
-        return res.trim();
+        return res.trim();              //return string
 
     }
 
